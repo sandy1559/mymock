@@ -1,4 +1,56 @@
 {
+  "swiggy":[{
+  "id": 1,
+  "foodName": "Jackal, golden",
+  "location": "Wonokerto",
+  "price": 135
+}, {
+  "id": 2,
+  "foodName": "Antechinus, brown",
+  "location": "Slunj",
+  "price": 190
+}, {
+  "id": 3,
+  "foodName": "Long-nosed bandicoot",
+  "location": "Savelugu",
+  "price": 412
+}, {
+  "id": 4,
+  "foodName": "Bontebok",
+  "location": "Ust’-Kachka",
+  "price": 299
+}, {
+  "id": 5,
+  "foodName": "Gull, swallow-tail",
+  "location": "Ḩabbān",
+  "price": 106
+}, {
+  "id": 6,
+  "foodName": "Lizard, goanna",
+  "location": "Lankaran",
+  "price": 298
+}, {
+  "id": 7,
+  "foodName": "Snake, tiger",
+  "location": "Pirca",
+  "price": 168
+}, {
+  "id": 8,
+  "foodName": "Crane, black-crowned",
+  "location": "Milići",
+  "price": 284
+}, {
+  "id": 9,
+  "foodName": "Impala",
+  "location": "Sinfra",
+  "price": 357
+}, {
+  "id": 10,
+  "foodName": "Heron, green-backed",
+  "location": "Shwebo",
+  "price": 562
+}],
+  
   "posts": [
     {
       "id": 1,
